@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'kenney_future_squareregular';
+    src: url('kenney-future.square-regular-webfont.eot');
+    src: url('kenney-future.square-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('kenney-future.square-regular-webfont.woff') format('woff'),
+         url('kenney-future.square-regular-webfont.ttf') format('truetype'),
+         url('kenney-future.square-regular-webfont.svg#kenney_future_squareregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.navbar {
+	background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 50%, rgba(150,0,0,1) 100%);
+	font-family: 'kenney future square regular';
+}
+.jumbotron {
+	font-family: 'kenney future square regular';
+	background-color: black;
+	color: maroon;
+}
+body {
+	background-color: black
+}
+footer{
+	font-family:'kenney future square regular';
+	color:grey;
+}
+.container{	
+	padding-top: 195px ;
+    padding-bottom: 195px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+footer{
+	background: rgb(150,0,0);
+	background: linear-gradient(0deg, rgba(150,0,0,1) 0%, rgba(0,0,0,1) 100%);
+	}
+.container-fluid marquee {
+	color: #b40000;
+	font-family: 'kenney future square regular';
+}
+.card{
+    background-color: #3E0000;
+    font-family: 'kenney future square regular';
+    color: #8A8A8A;
+    text-align: center;
+}.card #headingOne1 .mb-0 {
+    color: red;
+}

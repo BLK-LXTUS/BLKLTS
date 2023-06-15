@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 700">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 28.01px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: red;
+        font-family: Kenney-Future-Square, 'Kenney Future Square';
+      }
+
+      .cls-2 {
+        font-size: 90px;
+      }
+    </style>
+  </defs>
+  <g id="BG">
+    <rect width="1280" height="700"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <text class="cls-2" transform="translate(220.45 365.63)"><tspan x="0" y="0">SHOP Coming SOON!</tspan></text>
+      <text class="cls-1" transform="translate(438.96 400.49)"><tspan x="0" y="0">keep an eye on our socials!</tspan></text>
+    </g>
+  </g>
+</svg>
