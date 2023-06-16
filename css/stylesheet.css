@@ -10,8 +10,7 @@
 
 }
 .navbar {
-	background: rgb(0,0,0);
-background: linear-gradient(0deg, rgba(0,0,0,1) 50%, rgba(150,0,0,1) 100%);
+	background-color:#4A0001;
 	font-family: 'kenney future square regular';
 }
 .jumbotron {
@@ -40,9 +39,8 @@ footer{
   text-align: center;
 }
 footer{
-	background: rgb(150,0,0);
-	background: linear-gradient(0deg, rgba(150,0,0,1) 0%, rgba(0,0,0,1) 100%);
-	}
+	background-color:#4A0001;
+}
 .container-fluid marquee {
 	color: #b40000;
 	font-family: 'kenney future square regular';
@@ -51,7 +49,8 @@ footer{
     background-color: #3E0000;
     font-family: 'kenney future square regular';
     color: #8A8A8A;
-    text-align: center;
+    text-align: center;s
+	border:5px 
 }.card #headingOne1 .mb-0 {
     color: red;
 }
