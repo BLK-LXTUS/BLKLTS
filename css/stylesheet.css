@@ -11,10 +11,10 @@
 }
 .navbar {
 	background-color:#4A0001;
-	font-family: 'kenney future square regular';
+	font-family: 'kenney_future_squareregular';
 }
 .jumbotron {
-	font-family: 'kenney future square regular';
+	font-family: 'kenney_future_squareregular';
 	background-color: black;
 	color: maroon;
 }
@@ -22,7 +22,7 @@ body {
 	background-color: black
 }
 footer{
-	font-family:'kenney future square regular';
+	font-family:'kenney_future_squareregular';
 	color:grey;
 }
 .container{	
@@ -43,11 +43,11 @@ footer{
 }
 .container-fluid marquee {
 	color: #b40000;
-	font-family: 'kenney future square regular';
+	font-family: 'kenney_future_squareregular';
 }
 .card{
     background-color: #3E0000;
-    font-family: 'kenney future square regular';
+    font-family: 'kenney_future_squareregular';
     color: #8A8A8A;
     text-align: center;s
 	border:5px 
